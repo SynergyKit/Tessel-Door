@@ -1,0 +1,24 @@
+{
+  "name": "Tessel-Door",
+  "version": "1.0.0",
+  "description": "Counting door opening and saving data to SynergyKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SynergyKit/Tessel-Door.git"
+  },
+  "keywords": [],
+  "author": "Tomas Herma <tomas.herma@letsgood.com> (http://letsgood.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SynergyKit/Tessel-Door/issues"
+  },
+  "homepage": "https://github.com/SynergyKit/Tessel-Door",
+  "dependencies": {
+    "accel-mma84": "^0.2.4",
+    "synergykit": "^2.1.15"
+  }
+}
